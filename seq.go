@@ -9,8 +9,9 @@ import (
 	"fmt"
 	"strings"
 
-	"jsouthworth.net/go/dyn"
-	"jsouthworth.net/go/transduce"
+			"github.com/jpx40/transduce"
+		"github.com/jpx40/dyn"
+
 )
 
 // Sequence is any type that can return iterate down its elements.
